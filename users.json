@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "Nandan",
+    "lastName": "Pandey",
+    "age": 21
+  },
+  {
+    "firstName": "Anjali",
+    "lastName": "Jaiswal",
+    "age": 22
+  },
+  {
+    "firstName": "Sanjay",
+    "lastName": "Pandey",
+    "age": 23
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 24
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "age": 25
+  }
+]
